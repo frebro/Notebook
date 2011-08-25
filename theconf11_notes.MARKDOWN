@@ -85,9 +85,7 @@ Soon we will be "computing" without knowing it.
 
 ## How: Creating with fans and build on other peoples work
 
-### Kirby Ferguson
-
-Everything is remix. Remix is rearrangement of samples.
+### Kirby Ferguson, everything is a remix
 
 #### Myth
 
@@ -114,7 +112,7 @@ Humans sensitive to loss.
 Two obstacles: ideas are property, the lone creator.
 Ideas contain ideas. Where does an idea end and another begin?
 
-### Hanna Sköld
+### Hanna Sköld, crowd sourced movies
 
 Distributed first feature movie on TPB: _Nasty Old People_.
 People started remixing movie on YouTube. Happy!
@@ -126,15 +124,14 @@ People mix in their own life stories and identity.
 _We need each other's stories_.
 
 
-### Unni Drugge
+### Unni Drugge, crowd sourced book writing
 
-#### Crowd sourced book writing
 Book called "Karriärmammans dotter" ended on a cliffhanger with choices for where the story could go.
 Wanted to let readers finish the story. Afraid to get poor material, but actually got well written new chapters for the book.
 Unni became a director for the book. Met with a core group of fans over dinner to discuss. Finished the book together via Google Docs.
 Fans provided the enthusiasm that Unni felt she lacked.
 
-#### Q&A
+### Q&A
 Q: How to engage people?
 A: Don't set high expectations. It's OK if your idea is not complete. Invite people to share what they have, no matter how polished. Set up a goal to aim for. Pieces of content should be small and easy to describe. Managable and specific. Distinguish between crowd sourcing and collaboration.
 
@@ -143,6 +140,38 @@ A: Unni had half a book and was already well known writer. That helped. Collabs 
 
 Q: Should I pay my crowd?
 A: Be clear on what you recieve for contributing. Crowd don't work for profit, they work for the cause, but if you make money off their work they want somthing in return. Credits, shares. 
+
+
+## Funding creativity with the crowd
+
+### Daniel Daboczy, Fundedbyme
+
+Crowdfunding word <10 yrs old, but concept a lot older. We have new tools that makes it easier.
+
+Key to crowd sourcing is enabling people to feel part of something.
+
+* Crowd sourcing. We work for progress.
+* Crowdfunding. We contribute with money for progress.
+* Equity crowdfunding. We contribute with money in return for shares.
+
+#### The rise of the creative and social class.
+
+A new class of people who want to:
+
+* Be involved
+* Be useful
+* Feel part of...
+
+Will work as ambassadors for you.
+Money raised is a positive side effect. Building a crowd is the real winning.
+
+### Simon Klose, TPB AFK
+
+
+
+
+
+
 
 
 
