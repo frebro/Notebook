@@ -85,7 +85,7 @@ Soon we will be "computing" without knowing it.
 
 ## How: Creating with fans and build on other peoples work
 
-### Kirby Ferguson, everything is a remix
+### Kirby Ferguson, [Everything is a Remix](http://www.everythingisaremix.info/)
 
 #### Myth
 
@@ -165,10 +165,48 @@ A new class of people who want to:
 Will work as ambassadors for you.
 Money raised is a positive side effect. Building a crowd is the real winning.
 
-### Simon Klose, TPB AFK
+### Simon Klose, [TPB AFK](http://www.tpbafk.tv)
 
+Made a film about TPB. Raised $50.000+ in one month. Huge interest.
 
+I like buying organic food from local grocer because I know who grew the food I eat. Makes me feel good.
+I believe people similarly want to know who is behind the media they consume.
+People are aware.
 
+Went to documentary film festival to sell the film.
+People there had never heard of TPB, the greatest film distributor in history.
+Luke warm reception. _"Why would my audience want to see a film about Swedish hackers?"_.
+
+Turned to crowd funding on Kickstarter. 
+Focus on short campaign. Keep up people's interest. Set an end date based on TPB court case.
+Clear financing ladder. $10 gets you a link to the film (costs nothing). $500 = complete kit and credits in the film.
+Got the banner on TPB front page for 3 days, linking to Kickstarter.
+Blog with Flattr for raising money.
+
+Money was nice, but positive feedback was better. Huge energy boost to see the support.
+
+TPB shared their community. TPB open without registration, but still have 5.000.000+ registered users.
+FU attitude of TPB captures attitude of a generation. The TPB community want to contribute to this type of project.
+
+### Britta Riley, [Windowfarms](http://www.windowfarms.org/)
+
+Britta's (Swedish) grandfather inspiration for Window Farms project.
+
+Urban agriculture movement. Vertical farming.
+Some produce lose nutrition in transport. High tech farming in cities can solve that.
+
+Cause of idea gets power from people loving to have plants nearby. Farming fundamentally human.
+
+Why concentrate farming? We could farm at home.
+Rethink the concept of a window.
+3 yrs into project we have viable prototypes in windows all over world. 
+People can download instructions. Commonly available material. 
+
+__Heart strings and purse strings.__
+Financing of project a problem. Turned to Kickstarter. Appeal to the heart. Greater good.
+Campaign closed at end of year. Good timing; people want to give to charity for tax write-offs. Also, Christmas spirit.
+Tricky to appeal to heart again. Next funding drive appealed to the purse.
+_You are getting a good deal_ vs. _you are doing a good deed_.
 
 
 
