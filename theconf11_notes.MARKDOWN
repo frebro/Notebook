@@ -1,12 +1,14 @@
+
 # The Conference by Media Evolution
+Malmö, 24-25 August 2011.
 
 
-## Opening keynote by Paola Antonelli, MoMA _(The Theatre)_
+## Opening keynote by Paola Antonelli, MoMA
 
 _"Designers are the interface between humanity and progress"_
 
 
-## How China creates and consumes media _(The Blue Room)_
+## How China creates and consumes media
 
 ### Part 1: Kevin Lee
 
@@ -81,17 +83,66 @@ _Your phone will become a remote for reality._
 Soon we will be "computing" without knowing it.
 
 
-## How to live a hyperconnected life… or do the complete opposite _(The Green Room)_
+## How: Creating with fans and build on other peoples work
+
+### Kirby Ferguson
+
+Everything is remix. Remix is rearrangement of samples.
+
+#### Myth
+
+Creativity viewed as "of the Gods". We use words like "talent".
+Creativity percieved as a higher achievement.
+Picture of "creative genius" prevails. Genius creates from within without outer influence.
+Moment of enlightenment myth.
+
+#### Reality
+
+Steps of creativity:
+
+1. __Copy__. Learn the language of a culture. Bob Dylan started doing covers.
+2. __Transform__. Adapt something that already exists. Edison adjusted the original lightbulb patent.
+3. __Combine__. Fit other's work together to make new. Einstein did not invent E, M or C. Tim Berners Lee did not invent Hypertext, "just" the protocol.
+
+#### Copy, transform and combine
+
+_Example video shows scenes from Star Wars juxtaposed with identical scenes from older movies and TV series_.
+
+#### Implications
+
+Humans sensitive to loss.
+Two obstacles: ideas are property, the lone creator.
+Ideas contain ideas. Where does an idea end and another begin?
+
+### Hanna Sköld
+
+Distributed first feature movie on TPB: _Nasty Old People_.
+People started remixing movie on YouTube. Happy!
+First live screening in Vladivostok, one week after release. People organized movie events. 
+
+New movie: _Granny's Dancing on the Table_.
+Crowd sourced script writing on Facebook.
+People mix in their own life stories and identity.
+_We need each other's stories_.
 
 
+### Unni Drugge
 
+#### Crowd sourced book writing
+Book called "Karriärmammans dotter" ended on a cliffhanger with choices for where the story could go.
+Wanted to let readers finish the story. Afraid to get poor material, but actually got well written new chapters for the book.
+Unni became a director for the book. Met with a core group of fans over dinner to discuss. Finished the book together via Google Docs.
+Fans provided the enthusiasm that Unni felt she lacked.
 
+#### Q&A
+Q: How to engage people?
+A: Don't set high expectations. It's OK if your idea is not complete. Invite people to share what they have, no matter how polished. Set up a goal to aim for. Pieces of content should be small and easy to describe. Managable and specific. Distinguish between crowd sourcing and collaboration.
 
+Q: Size of starting material to be able to invite?
+A: Unni had half a book and was already well known writer. That helped. Collabs saw opportunity to contribute to something great.
 
-
-
-
-
+Q: Should I pay my crowd?
+A: Be clear on what you recieve for contributing. Crowd don't work for profit, they work for the cause, but if you make money off their work they want somthing in return. Credits, shares. 
 
 
 
