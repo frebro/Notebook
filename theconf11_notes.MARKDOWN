@@ -1,16 +1,21 @@
 
 # The Conference by Media Evolution
-Malmö, 24-25 August 2011.
 
+Malmö, 24-25 August 2011. Videos are available on [23Video](http://mediaevolution.23video.com/channel/3014916/the-conference-2011)
+
+
+---
 
 ## Opening keynote by Paola Antonelli, MoMA
 
-_"Designers are the interface between humanity and progress"_
+_"Designers are the interface between humanity and progress."_
 
+
+---
 
 ## How China creates and consumes media
 
-### Part 1: Kevin Lee
+### 1. Kevin Lee
 
 #### A look at the chinese consumer. 
 Chinese youth born in Open Door Era. 1972–first entrepreneur. Rapid income growth.
@@ -52,7 +57,7 @@ Critical mindset. Learning to filter info.
 More active. People learn value of participation.
 Consumption evolution.
 
-## Part 2: Benjamin Joffe
+## 2. Benjamin Joffe
 
 ### Things can be "invented" more than once.
 What if movable type moved from China to Europe earlier?
@@ -65,9 +70,11 @@ Competition different in China. Must differentiate to distinguish from crowd.
 Successful business in China started as copycat, and mutated to something else.
 
 
-## Man & Machine – From Solid to Liquid to Air. Keynote by Amber Case _(The Theatre)_
+---
 
-We are all cyborgs. Tech is on us all the time.
+## Man & Machine--From Solid to Liquid to Air. Keynote by Amber Case.
+
+_We are all cyborgs. Tech is on us all the time._
 
 Humans want to explore spaces we are not made for being in. External evolution through tools enables us to go beyond regular evolutionary processes.
 Our brains are changing. Increased amount of information changes ways of remembering and sorting it. We construct filters to aid the brain.
@@ -83,9 +90,11 @@ _Your phone will become a remote for reality._
 Soon we will be "computing" without knowing it.
 
 
+---
+
 ## How: Creating with fans and build on other peoples work
 
-### Kirby Ferguson, [Everything is a Remix](http://www.everythingisaremix.info/)
+### 1. Kirby Ferguson, [Everything is a Remix](http://www.everythingisaremix.info/)
 
 #### Myth
 
@@ -112,7 +121,7 @@ Humans sensitive to loss.
 Two obstacles: ideas are property, the lone creator.
 Ideas contain ideas. Where does an idea end and another begin?
 
-### Hanna Sköld, crowd sourced movies
+### 2. Hanna Sköld, crowd sourced movies
 
 Distributed first feature movie on TPB: _Nasty Old People_.
 People started remixing movie on YouTube. Happy!
@@ -124,7 +133,7 @@ People mix in their own life stories and identity.
 _We need each other's stories_.
 
 
-### Unni Drugge, crowd sourced book writing
+### 3. Unni Drugge, crowd sourced book writing
 
 Book called "Karriärmammans dotter" ended on a cliffhanger with choices for where the story could go.
 Wanted to let readers finish the story. Afraid to get poor material, but actually got well written new chapters for the book.
@@ -142,9 +151,11 @@ Q: Should I pay my crowd?
 A: Be clear on what you recieve for contributing. Crowd don't work for profit, they work for the cause, but if you make money off their work they want somthing in return. Credits, shares. 
 
 
+---
+
 ## Funding creativity with the crowd
 
-### Daniel Daboczy, Fundedbyme
+### 1. Daniel Daboczy, Fundedbyme
 
 Crowdfunding word <10 yrs old, but concept a lot older. We have new tools that makes it easier.
 
@@ -165,7 +176,7 @@ A new class of people who want to:
 Will work as ambassadors for you.
 Money raised is a positive side effect. Building a crowd is the real winning.
 
-### Simon Klose, [TPB AFK](http://www.tpbafk.tv)
+### 2. Simon Klose, [TPB AFK](http://www.tpbafk.tv)
 
 Made a film about TPB. Raised $50.000+ in one month. Huge interest.
 
@@ -188,7 +199,7 @@ Money was nice, but positive feedback was better. Huge energy boost to see the s
 TPB shared their community. TPB open without registration, but still have 5.000.000+ registered users.
 FU attitude of TPB captures attitude of a generation. The TPB community want to contribute to this type of project.
 
-### Britta Riley, [Windowfarms](http://www.windowfarms.org/)
+### 3. Britta Riley, [Windowfarms](http://www.windowfarms.org/)
 
 Britta's (Swedish) grandfather inspiration for Window Farms project.
 
@@ -213,6 +224,8 @@ _You are getting a good deal_ vs. _you are doing a good deed_.
 Q (to Simon): Has crowd funding affected your objectivity?  
 A: I'm a film maker; I don't believe in objective film making.
 
+
+---
 
 ## Riyaad Minty, Al Jazeera
 
