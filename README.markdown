@@ -4,4 +4,4 @@ When I go to conferences I jot down my memories using nano on my Mac. I use [Mar
 
 __Were you there?__ Feel free to fork and extend. Send me a pull request if you want to add someting you think I missed.
 
-
+I recommend using [Marked](http://markedapp.com/) to read these files on your Mac.
