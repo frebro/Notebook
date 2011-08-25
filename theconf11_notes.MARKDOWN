@@ -132,13 +132,13 @@ Unni became a director for the book. Met with a core group of fans over dinner t
 Fans provided the enthusiasm that Unni felt she lacked.
 
 ### Q&A
-Q: How to engage people?
+Q: How to engage people?  
 A: Don't set high expectations. It's OK if your idea is not complete. Invite people to share what they have, no matter how polished. Set up a goal to aim for. Pieces of content should be small and easy to describe. Managable and specific. Distinguish between crowd sourcing and collaboration.
 
-Q: Size of starting material to be able to invite?
+Q: Size of starting material to be able to invite?  
 A: Unni had half a book and was already well known writer. That helped. Collabs saw opportunity to contribute to something great.
 
-Q: Should I pay my crowd?
+Q: Should I pay my crowd?  
 A: Be clear on what you recieve for contributing. Crowd don't work for profit, they work for the cause, but if you make money off their work they want somthing in return. Credits, shares. 
 
 
@@ -207,6 +207,81 @@ Financing of project a problem. Turned to Kickstarter. Appeal to the heart. Grea
 Campaign closed at end of year. Good timing; people want to give to charity for tax write-offs. Also, Christmas spirit.
 Tricky to appeal to heart again. Next funding drive appealed to the purse.
 _You are getting a good deal_ vs. _you are doing a good deed_.
+
+### Q&A
+
+Q (to Simon): Has crowd funding affected your objectivity?  
+A: I'm a film maker; I don't believe in objective film making.
+
+
+## Riyaad Minty, Al Jazeera
+
+_(Show of hands; majority of audience have seen broadcast online, almost nobody on traditional TV.)_
+
+### About Al Jazeera and social media
+
+We broadcast in the people's language. E.g. in parts of Africa, English is official language, but people speak Swahili. We speak Swahili.
+
+Collective viewing was the norm; on public squares, in homes, in restaurants. New scenario emerged; single viewing on computers.
+People no longer rely on a single point of information. They use multiple sources to form their own picture of events.
+How does Al Jazeera stay relevant? It's about trust. People trust people. We give regular people a voice.
+
+You are your own media. People are following this conference because of you. Everyone is a reporter. __Participatory culture__.
+Participation becomes a virtuous circle. Al Jazeera publish user generated video. Others reacted by sending in more video. Participation generates participation.
+
+### Arab uprisings
+
+Tunisia started with Sidi Bouzid. After suicide, trending hashtag was #sidibouzid. Socmed enabled people to discuss the event.
+Revolution was over before traditional news broadcasting could react. __The revolution was televised. You were just watching the wrong channel__.
+
+What we learned from Tunisia was; people lose focus on important events when broadcasts are interrupted by entertainment. For Egypt revolution we decided to let people watch live online, uninterrupted.
+The people of Egypt had also learned from Tunisia. Strategy of sending video to Al Jazeera to aid the revolution.
+
+_(Video summary of Egyptian Revolution)_
+
+All clips were recorded by regular people, not reporters. __People were documenting their own history__, telling their own story, with their own voice.
+The #hashtag has become one of the most powerful tools we have today. They let people engage around a common subject, across political/social/geographical borders.
+
+__(info - noise) + context = accurate reporting__.
+
+You can't just take, you have to give back. Al Jazeera set up Twitter accounts for micro reporting. Created live blog. People don't want to see same material repeated, they want the latest news.
+Effect was that Al Jazeera dominated all relevant keywords online. Al Jazeera is most retweeted news network. The audience trust what is published.
+
+High availability. You can watch Al Jazeera on any device, on lots of channels online. 
+
+Because we are open with our content, partner companies are open with their platforms. E.g. YouTube put up banner ads promoting Al Jazeera news videos. YouTube handle load balancing and hardware.
+Al Jazeera publish under Creative Commons. A way of building a community.
+
+US newspapers started asking for Al Jazeera English. Higher trust than US news networks. Al Jazeera started #DemandAlJazeera campaign. Grassroots in US arranged meetups for people to discuss media.
+
+__Win the trust of your community__.
+
+__Telling the truth is hard. Not telling the truth is harder.__ You must stand up for the truth, even if it's only 140 characters at a time.
+
+### Q&A
+
+Q: How do you verify facts in fast-updating sources?  
+A: We have a team dedicated to this. Looking at landmarks, accents, phone numbers et cetera. Can we trust this source? Key is also to get there fast. Get people to the scene when you believe something needs to be reported. We do the same fact checking as usual, just _a lot faster_.
+
+Q: Comparing to polarized media in the US, how do you deal with objectivity?  
+A: We do it the Al Jazeera way. We have ethics that we stick to. Also, we are not commercial. We do not have to make a profit.
+
+Q: How did you get involved in Al Jazeera?  
+A: I've been there for five years. After 9/11 a felt mobile technology could make a change in the world. Joined Al Jazeera because could identify with their values. Saw potential to make a change.
+
+Q: How do you handle...  
+A: Be flexible. We do have a strategy, but we are prepared to change. Try to recruit citizen journalists. Hand out FlipCams. Also a risk for the people. Gives govts a means to identify dissidents.
+
+Q: You focus on being first on the story. What's the five year plan?  
+A: We have teams everywhere so we can be early on scene globally. Broadcast in several languages. When we can't be there we rely on citizen reporting.
+
+Q: Editorial work?  
+A: We pass on to news room, they make descicion on what is broadcast. Some material too strong to show. Some is duplicate. Otherwise try to broadcast everything.
+
+
+
+
+
 
 
 
