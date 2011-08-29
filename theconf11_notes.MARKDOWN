@@ -153,6 +153,15 @@ A: Be clear on what you recieve for contributing. Crowd don't work for profit, t
 
 ---
 
+## New business opportunities with disruptive thinking
+
+### 1. Luke Williams
+
+Start with what is not broken. Disruptive thinking is about changing current processes, not solving problems.
+
+
+---
+
 ## Funding creativity with the crowd
 
 ### 1. Daniel Daboczy, Fundedbyme
