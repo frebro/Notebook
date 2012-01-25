@@ -37,7 +37,7 @@ När du köper saker till firman, t.ex. en dator, så betalar du moms. Man kan s
 
 När du driver egen firma är du skyldig att bokföra alla transaktioner. Transaktioner är pengar som rullar in och ut, t.ex. när kunder betalar för jobb, när du köper tjänster av någon annan, eller saker dom du köper till bolaget. Skatteverket kan göra en kontroll av din bokföring, och då måste alla papper finnas på plats så att du kan bevisa dina inkomster och utgifter. Samla alla kvitton, offerter, fakturor etc. i en pärm och/eller bokföringsprogram (jag använder iOrdning för Mac).
 
-I slutet av året gör man ett bokslut och alla pengar som finns kvar i bolaget räknas som vinst det året. Vinsten är din lön och den betalar du skatt på. Har du misstänkt mycket pengar över i bolaget? Kolla så att du verkligen betalat all moms och skatt genom preliminärdeklarationen. Du kan få en skattesmäll om du missade att betala under året! Mitt första år hade jag ingen koll alls och fick betala 80 000:- i kvarskatt :(
+I slutet av året gör man ett bokslut och alla pengar som finns kvar i bolaget räknas som vinst det året. Vinsten är din lön och den betalar du skatt på. Har du misstänkt mycket pengar över i bolaget? Kolla så att du verkligen betalat all moms och skatt genom preliminärdeklarationen. Du kan få en skattesmäll om du missade att betala under året!
 
 Första året går alltid lite trögt. Du måste kanske lägga mycket tid på att skaffa uppdrag och du behöver göra investeringar, t.ex. köpa en dator och mobiltelefon. Det är en fördel om du har lite pengar sparat och redan har kontakt med kunder innan du drar igång, för att minska uppförsbacken. Kanske behöver du ha en deltidsanställning vid sidan om för att trygga en del inkomst tills bolaget går bra.
 
